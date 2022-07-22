@@ -1,6 +1,7 @@
 ## Ryan's Pages
 
 I am now an undergraduate student majoring in **artificial intelligence** in *Southwest Jiaotong University*.
+
 **Email**：ryan.y0218@gmail.com
 
 ### Experience:
@@ -13,4 +14,3 @@ I am now an undergraduate student majoring in **artificial intelligence** in *So
 ### Publication:
 - Shan Zhang, Powei Chen, Ziqiang Yang.Electricity price prediction based on a new hybrid model.ICPICS 2022.
 <p align="right">6.2022</p>
-
