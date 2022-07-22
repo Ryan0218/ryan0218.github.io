@@ -1,9 +1,9 @@
 ## Ryan's Pages
 
-I am now an undergraduate student at *Southwest Jiaotong University*.
+I am now an undergraduate student majoring in artificial intelligence in *Southwest Jiaotong University*.
 
 ### Experience:
-- Innovation & Practice Programme for the Cultivation of High-Level Internationalized Talents    
+- *Innovation & Practice Programme for the Cultivation of High-Level Internationalized Talents*    
 <p align="right">5.2022<p>                     
 - 
 
