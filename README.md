@@ -1,6 +1,6 @@
 ## Welcome to Ryan's GitHub Pages
 
-I am now a undergraduate student at Southwest Jiaotong University.
+I am now an undergraduate student at Southwest Jiaotong University.
 
 ### Markdown
 
