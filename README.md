@@ -1,6 +1,7 @@
 ## Ryan's Pages
 
 I am now an undergraduate student majoring in artificial intelligence in *Southwest Jiaotong University*.
+#### Email：ryan.y0218@gmail.com
 
 ### Experience:
 - *Innovation & Practice Programme for the Cultivation of High-Level Internationalized Talents*    
