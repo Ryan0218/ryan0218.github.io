@@ -7,8 +7,9 @@ I am now an undergraduate student majoring in **artificial intelligence** in *So
 - *Innovation & Practice Programme for the Cultivation of High-Level Internationalized Talents*    
 <p align="right">5.2022<p>
 
-- *The Hong Kong Polytechnic University* International Summer School
+-*The Hong Kong Polytechnic University* International Summer School
 <p align="right">7.2022<p>
+
 
 ### Publication:
 
